@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-# About me
+## About me
 ### My name is Renan and I am completely passionate about technology since I was a child. Currently, I work as a designer and developer, and I am immersed in the studies of information security. My main hobbies are somewhat questionable, such as: 🎮 playing video games, 🎸 playing guitar and documenting the things I do.
 
 ## Technologies
