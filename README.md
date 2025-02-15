@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 
 ## About me
-### My name is Renan and I am completely passionate about technology since I was a child. Currently, I work as a designer and developer, and I am immersed in the studies of information security. My main hobbies are somewhat questionable, such as: 🎮 playing video games, 🎸 playing guitar and documenting the things I do.
-
+### 👋 Hello, everyone! My name is Renan, and I have been passionate about technology since I was a child. Currently, I work as a cybersecurity analyst, and I am immersed in the study of application security. My main hobbies are somewhat questionable, such as 🍙 watch anime, 🎮 playing video games, 🎸 playing guitar, and documenting the things I do. Feel free to connect with me and explore my profile here on LinkedIn!
 ## Technologies
+
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
@@ -38,15 +38,11 @@
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></img>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-## TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/WHrez1ns.png" alt="TryHackMe">
-
 ## Social
 <!-- <a><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> -->
 <a href="https://www.linkedin.com/in/renan-dias-da-costa-563830264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@whrez1ns" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><img></a>
-
 
 ## Analytics
 <a href="https://github.com/WHrez1ns">
