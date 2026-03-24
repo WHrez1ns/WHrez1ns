@@ -6,7 +6,7 @@ I have a background as a Full Stack Developer, which really helps me understand 
 In my free time, I'm passionate about anime, games, and music, and I enjoy documenting what I learn through articles, projects, or talks.
 
 ### Certification & Skills
-- CWES, eMAPT, CRTA, CMPen-Android, PMPA, SYAP, SYCP, HTB Pro Labs (Genesis, Dante & Orion) <br>
+- CWES, eMAPT, K8s-RTA, CRTA, CMPen-Android, PMPA, SYAP, SYCP, HTB Pro Labs <br>
 - Pentesting (Web, Mobile, Internal, External, Physical) | Mobile Security | Application Security | Security Architecture | Red Team | Full Stack Developer (Python, PHP, Java)
 
 ### List of crazy things
